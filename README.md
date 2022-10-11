@@ -1,6 +1,10 @@
 # Portfólio - Site
 Projeto criado como objetivo de ser um portfólio para um desenvolvedor freelancer.
 
+Link on Vercel: <https://portfolio-diogo0602x.vercel.app//>
+
+![Portfolio](/assets/Landing-page.PNG)
+
 ## Linguagens e Frameworks Utilizados:
 - Html
 - Css
